@@ -25,7 +25,7 @@ This plugin adds Polish translations to the WonderCMS admin area, based on `http
 
 
 ## How this works
-The translations are all in the si_SL.csv file. Why in CVS? That's how all
+The translations are all in the si_SL.csv file. Why in CSV? That's how all
 other major CMSes do it, so there must be a good reason for it.
 
 You will see something like this a lot: 
