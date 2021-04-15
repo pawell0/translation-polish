@@ -1,6 +1,6 @@
 <p align="center"><img src="preview.jpg?v=3" /></p>
-<h1 align="center">language-sl</h1>
-<p align="center">Slovenian translations for WonderCMS (by Robert Isoski)</p>
+<h1 align="center">language-pl</h1>
+<p align="center">Polish translations for WonderCMS (by pawell0)</p>
 
 <br><br>
 
